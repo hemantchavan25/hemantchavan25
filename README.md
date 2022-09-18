@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Hemant chavan an experinced professional having skill of developer and a skilled programmer with a flair for adopting new technologies, 
+- 👋 Hi, My name is Hemant an experinced professional having skill of developer and a skilled programmer with a flair for adopting new technologies, 
 and designing/ building applications using Java web technologies for various domain.
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning CI/CD and Kubernates
