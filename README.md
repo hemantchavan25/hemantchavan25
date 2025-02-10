@@ -2,7 +2,7 @@
 and designing/ building applications using Java web technologies for various domain.
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning CI/CD and Kubernates
-- 💞️ I’m looking to collaborate on Java Project / REST API / SpringBoot / Microservices / Angular Project / Html/CSS / Opensource Project
+- 💞️ I’m looking to collaborate on Java Project / REST API / SpringBoot / Microservices / UI Project / Html/CSS / Opensource Project
 - 📫 How to reach me hemantchava25@gmail.com
 
 <!---
